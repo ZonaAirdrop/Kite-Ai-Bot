@@ -10,9 +10,10 @@
 
   # 📦 Installation & Setup
 
+  ## Clone the repository
+
   ````
-  git clone https://github.com/ZonaAirdrop/Kite-Ai-Bot.git
-cd Kite-Ai-Bot
+  git clone https://github.com/ZonaAirdrop/Kite-Ai-Bot.git cd Kite-Ai-Bot
 ````
 
 ⚠️ Important Notes
