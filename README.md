@@ -5,8 +5,10 @@
 - Multi-account support
 
 - Proxy support (Optional)
-
 - Automatic daily quiz completion
+- Suport VPS & Termux
+
+  # Kite AI Bot Setup Instructions
 
 ⚠️ Important Notes
 Make sure you have completed all the initial tasks on GoKite.ai before using the bot.
