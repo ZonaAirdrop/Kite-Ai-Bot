@@ -17,13 +17,15 @@ function getTimestamp() {
 }
 
 function displayBanner() {
+  const chalk = require('chalk');
   const width = process.stdout.columns || 80;
-  const banner = figlet.textSync('\n KITE-AI V2', { font: "ANSI Shadow", horizontalLayout: 'Speed' });
-  banner.split('\n').forEach(line => {
-    console.log(chalk.cyanBright(line.padStart(line.length + Math.floor((width - line.length) / 2))));
-  });
-  console.log(chalk.cyanBright(' '.repeat((width - 50) / 2) + 'Kite Ai Bot - Created By Zonaairdrop'));
-  console.log(chalk.yellowBright(' '.repeat((width - 30) / 2) + '✪ KITE AI AUTO DAILY QUIZ & CHAT AI ✪\n'));
+
+  const banner = 'ZonaAirdrop Bot';
+
+  // Cetak banner sederhana di tengah layar
+  console.log('\n' + chalk.cyanBright(banner.padStart(banner.length + Math.floor((width - banner.length) / 2))));
+  console.log(chalk.cyanBright('Created by ZonaAirdrop'.padStart('Created by ZonaAirdrop'.length + Math.floor((width - 20) / 2))));
+  console.log(chalk.yellowBright('✪ Kite AI Auto Daily Quiz & Chat AI ✪'.padStart('✪ Kite AI Auto Daily Quiz & Chat AI ✪'.length + Math.floor((width - 36) / 2))) + '\n');
 }
 
 const rl = createInterface({
