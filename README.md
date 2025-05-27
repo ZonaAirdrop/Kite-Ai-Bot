@@ -54,3 +54,8 @@ Use this bot responsibly and in accordance with GoKite.ai’s terms of service.
 This bot is provided for educational and personal use only. (GitHub)
 
 Using Kite AI Automation Bot can save you time and effort completing routine tasks on GoKite.ai, allowing you to focus on other aspects of your participation in the ecosystem.
+
+👉 Register Gokie: https://testnet.gokite.ai?referralCode=J81ETN6K
+
+👉 Join Channel (Optional) 
+https://t.me/ZonaAirdr0p
