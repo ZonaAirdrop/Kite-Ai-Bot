@@ -25,14 +25,14 @@
   ````
   npm install
   ````
-   4 **Create Folder Paste Private key `accounts.txt`
+   4 **Create Folder Paste Private key** `accounts.txt`
 
   ```
   nano accounts.txt
   ```
   - `Save CTRL X+Y enter`
 
-5 **Create Folder `nano proxy.txt (Optimal)`
+5 **Create Folder** `nano proxy.txt (Optimal)`
 
 
   
