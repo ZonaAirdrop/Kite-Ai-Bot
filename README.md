@@ -10,22 +10,27 @@
 
   # 📦 Installation & Setup
 
-  ## 1 Clone the repository
+   1 **Clone the repository**
 
   ````
   git clone https://github.com/ZonaAirdrop/Kite-Ai-Bot.git
   ````
-  # 2 Go to Folder 
+  2 **Go to Folder**
 
   ````
   cd Kite-Ai-Bot
   ````
-  # 3 Install dependencies
+   3 **Install dependencies**
 
   ````
   npm install
   ````
-  # 4 Create Folder `nano accounts.txt`
+   4 **Create Folder Paste Private key `accounts.txt`
+
+  ```
+  nano accounts.txt
+  ```
+  - `Save CTRL X+Y enter`
 
 ⚠️ Important Notes
 Make sure you have completed all the initial tasks on GoKite.ai before using the bot.
