@@ -38,7 +38,7 @@
 http://user:pass@ip:port
 socks5://user:pass@ip:port
 ```
-6 ** The streets are bots**
+6 **run bot**
 
 ```
 node index.js
