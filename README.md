@@ -34,7 +34,10 @@
 
 5 **Create Folder** `nano proxy.txt (Optimal)`
 
-
+```
+http://user:pass@ip:port
+socks5://user:pass@ip:port
+```
   
 ⚠️ Important Notes
 Make sure you have completed all the initial tasks on GoKite.ai before using the bot.
