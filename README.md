@@ -1,12 +1,12 @@
 # 🔧 Key Features
 
-Automatic AI agent chat
+- Automatic AI agent chat
 
-Multi-account support
+- Multi-account support
 
-Proxy support
+- Proxy support (Optional)
 
-Automatic daily quiz completion
+- Automatic daily quiz completion
 
 ⚠️ Important Notes
 Make sure you have completed all the initial tasks on GoKite.ai before using the bot.
