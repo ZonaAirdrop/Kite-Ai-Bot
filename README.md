@@ -32,6 +32,10 @@
   ```
   - `Save CTRL X+Y enter`
 
+5 **Create Folder `nano proxy.txt (Optimal)`
+
+
+  
 ⚠️ Important Notes
 Make sure you have completed all the initial tasks on GoKite.ai before using the bot.
 
