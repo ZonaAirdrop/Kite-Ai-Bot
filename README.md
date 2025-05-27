@@ -38,6 +38,11 @@
 http://user:pass@ip:port
 socks5://user:pass@ip:port
 ```
+6 ** The streets are bots**
+
+```
+node index.js
+```
   
 ⚠️ Important Notes
 Make sure you have completed all the initial tasks on GoKite.ai before using the bot.
