@@ -8,7 +8,12 @@
 - Automatic daily quiz completion
 - Suport VPS & Termux
 
-  # Kite AI Bot Setup Instructions
+  # 📦 Installation & Setup
+
+  ````
+  git clone https://github.com/ZonaAirdrop/Kite-Ai-Bot.git
+cd Kite-Ai-Bot
+````
 
 ⚠️ Important Notes
 Make sure you have completed all the initial tasks on GoKite.ai before using the bot.
