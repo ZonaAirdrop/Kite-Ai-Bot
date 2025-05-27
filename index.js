@@ -18,12 +18,12 @@ function getTimestamp() {
 
 function displayBanner() {
   const width = process.stdout.columns || 80;
-  const banner = figlet.textSync('\n ZONA AIRDROP', { font: "ANSI Shadow", horizontalLayout: 'Speed' });
+  const banner = figlet.textSync('\n KITE-AI V2', { font: "ANSI Shadow", horizontalLayout: 'Speed' });
   banner.split('\n').forEach(line => {
     console.log(chalk.cyanBright(line.padStart(line.length + Math.floor((width - line.length) / 2))));
   });
   console.log(chalk.cyanBright(' '.repeat((width - 50) / 2) + 'Kite Ai Bot - Created By Zonaairdrop'));
-  console.log(chalk.yellowBright(' '.repeat((width - 30) / 2) + ' KITE AI AUTO DAILY QUIZ & CHAT AI \n'));
+  console.log(chalk.yellowBright(' '.repeat((width - 30) / 2) + '✪ KITE AI AUTO DAILY QUIZ & CHAT AI ✪\n'));
 }
 
 const rl = createInterface({
