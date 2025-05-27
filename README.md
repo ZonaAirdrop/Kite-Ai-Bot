@@ -30,6 +30,8 @@
   ```
   nano accounts.txt
   ```
+  - `example 0x87xxx`
+    
   - `Save CTRL X+Y enter`
 
 5 **Create Folder** `nano proxy.txt (Optimal)`
