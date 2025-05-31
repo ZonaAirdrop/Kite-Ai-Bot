@@ -837,7 +837,7 @@ function scheduleNextRun(accounts, professorMessages, cryptoBuddyMessages, accou
     if (isProcessing || isSpinnerActive) return;
     try {
       isProcessing = true;
-      const nextRunTime = moment().add(24, 'hours');
+      const nextRunTime = moment().add(12, 'hours');
       await processAccounts(accounts, professorMessages, cryptoBuddyMessages, accountProxies, chatCount, noType);
       startCountdown(nextRunTime);
     } catch (err) {
