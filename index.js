@@ -832,7 +832,7 @@ let isProcessing = false;
 
 function scheduleNextRun(accounts, professorMessages, cryptoBuddyMessages, accountProxies, chatCount, noType) {
   const delay = 24 * 60 * 60 * 1000;
-  console.log(chalk.cyan(` ┊ ⏰ Proses akan diulang setiap 24 jam...`));
+  console.log(chalk.cyan(` ┊ ⏰ Proses akan diulang setiap 12 jam...`));
   setInterval(async () => {
     if (isProcessing || isSpinnerActive) return;
     try {
