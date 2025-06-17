@@ -25,11 +25,12 @@
   ````
   npm install
   ````
-   4 **Create Folder Paste Private key** `accounts.txt`
+   4 **Create Folder Paste Private key** `nano .env`
 
-  ```
-  nano accounts.txt
-  ```
+````
+PRIVATE_KEY_1=your_private_key_here
+PRIVATE_KEY_2=optional_private_key
+  ````
   - `example 0x87xxx`
     
   - `Save CTRL X+Y enter`
