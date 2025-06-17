@@ -1,0 +1,50 @@
+[Professor]
+Explain Kite AI tokenomics in detail
+What is the freezing point of water?
+What is the main ingredient in bread?
+What is cybersecurity?
+What is blockchain technology?
+What are the main components of a computer?
+What is the freezing point of water?
+What is cloud computing?
+What is 5G technology?
+What is the hardest natural substance?
+What is the national animal of Australia?
+What is quantum computing?
+What is quantum computing?
+What are the differences between RAM and ROM?
+What are the differences between RAM and ROM?
+What is quantum computing?
+
+[Crypto Buddy]
+What is blockchain technology?
+How does blockchain ensure security?
+What are the key components of a blockchain system?
+How does a blockchain work?
+What is the difference between a public and private blockchain?
+What is a smart contract in blockchain?
+What is a cryptocurrency?
+How does Bitcoin use blockchain technology?
+What is the purpose of mining in blockchain?
+What is proof of work in blockchain?
+What is proof of stake in blockchain?
+How does Ethereum differ from Bitcoin?
+What is a decentralized application (dApp)?
+What is the consensus mechanism in blockchain?
+What are the benefits of using blockchain technology?
+
+[Sherlock]
+Analyze this transaction: 0x252c02bded9a24426219248c9c1b065b752d3cf8bedf4902ed62245ab950895b
+Is this address safe? 0x7c3dD8E62A7C32c04172042e0Ec4C42428d57958
+Check the security of this contract: 0x7c3dD8E62A7C32c04172042e0Ec4C42428d57958
+What is the role of blockchain in real estate tokenization?
+What is the role of blockchain in supply chain management?
+What is blockchain's role in the gig economy?
+What are the challenges in adopting blockchain for businesses?
+What is the future of blockchain in financial services?
+What is the role of blockchain in peer-to-peer lending?
+What are the differences between blockchain and traditional payment systems?
+How does blockchain support the digital economy?
+What is a decentralized finance ecosystem?
+What is the role of blockchain in content creation?
+What is the use of blockchain in identity theft prevention?
