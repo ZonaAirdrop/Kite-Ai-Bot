@@ -1,5 +1,5 @@
 {
-  "name": "kite-ai-automation-bot",
+  "name": "kite-ai-Auto-Bot",
   "version": "1.0.0",
   "description": "Automated bot for interacting with KiteAI testnet, performing daily tasks, and maximizing rewards",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cryptodai3/Kite-Ai-Automation-Bot.git"
+    "url": "https://github.com/ZonaAirdrop/Kite-Ai-Bot.git"
   },
   "keywords": [
     "kiteai",
@@ -19,7 +19,7 @@
     "ai",
     "crypto"
   ],
-  "author": "YetiDAO",
+  "author": "Zonaairdrop",
   "license": "MIT",
   "dependencies": {
     "axios": "^1.6.7",
@@ -31,7 +31,7 @@
     "node": ">=16.0.0"
   },
   "bugs": {
-    "url": "https://github.com/cryptodai3/Kite-Ai-Automation-Bot/issues"
+    "url": "https://github.com/ZonaAirdrop/Kite-Ai-Bot/issues"
   },
-  "homepage": "https://github.com/cryptodai3/Kite-Ai-Automation-Bot#readme"
+  "homepage": "https://github.com/ZonaAirdrop/Kite-Ai-Bot#readme"
 }
