@@ -29,7 +29,7 @@ const logger = {
   banner: () => {
     console.log(`${colors.cyan}${colors.bold}`);
     console.log('---------------------------------------------');
-    console.log('     Kite AI Automation Bot - YetiDAO ');
+    console.log('     Kite AI Bot - Zona Airdrop ');
     console.log(`---------------------------------------------${colors.reset}\n`);
   },
   agent: (msg) => console.log(`${colors.white}${msg}${colors.reset}`)
