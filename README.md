@@ -25,9 +25,9 @@
    3 **Install dependencies**
 
   ````
-  npm install
+  pip install -r requirements.txt
   ````
-   4 **Create Folder Paste Private key** `nano .env`
+   4 **Create Folder Paste Private key** `accounts.txt`
 
 ````
 PRIVATE_KEY_1=your_private_key_here
@@ -46,7 +46,7 @@ socks5://user:pass@ip:port
 6 **run bot**
 
 ```
-node index.js
+python bot.py
 ```
   
 ⚠️ Important Notes
