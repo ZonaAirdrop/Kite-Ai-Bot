@@ -2,6 +2,8 @@
 
 - Automatic AI agent chat
 
+- Auto Bridge
+  
 - Multi-account support
 
 - Proxy support (Optional)
