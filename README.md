@@ -30,8 +30,8 @@
    4 **Create Folder Paste Private key** `accounts.txt`
 
 ````
-PRIVATE_KEY_1=your_private_key_here
-PRIVATE_KEY_2=optional_private_key
+  your_private_key_1
+  your_private_key_2
   ````
   - `example 0x87xxx`
     
